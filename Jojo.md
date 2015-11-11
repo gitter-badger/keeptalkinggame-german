@@ -1,2 +1,2 @@
 # keeptalkinggame-german
-hier ist meine Erklärung
+hier ist meine neue Erklärung
